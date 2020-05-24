@@ -1,2 +1,2 @@
 # 2020_practice
-practice in 202
+practice in 2020
